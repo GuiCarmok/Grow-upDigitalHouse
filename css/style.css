@@ -45,6 +45,15 @@ header nav ul li a {
     margin: 0 auto;
 }
 
+.btn-primary {
+    padding: 10px 30px;
+    background-color: #00796B;
+    color: #fff;
+    text-transform: uppercase;
+    display: inline-block;
+    text-decoration: none;
+}
+
 main {
     min-height: 80vh;
 }
@@ -130,16 +139,14 @@ main h1 {
 
 .contato form input:not([type="radio"]):not([type="checkbox"]),
 .contato form textarea,
-.contato form select
-{
+.contato form select {
     width: 100%;
     padding: 5px;
 }
 
 .contato form input:not([type="radio"]):not([type="checkbox"]):focus,
 .contato form textarea:focus,
-.contato form select:focus
-{
+.contato form select:focus {
     outline-color: #00796B;
 }
 
