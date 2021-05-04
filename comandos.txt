@@ -1,0 +1,7 @@
+! = cria uma estrutura html
+
+p>lorem
+
+alt + z - quebra a linha
+
+ctrl + D
